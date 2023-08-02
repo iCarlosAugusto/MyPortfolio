@@ -11,14 +11,14 @@ export default function Head() {
       <meta property="og:url" content="https://jigarsable.vercel.app" />
       <meta property="og:image" content="https://jigarsable.vercel.app/portfolio-fork.png" />
       <link rel="canonical" href="https://jigarsable.vercel.app" />
-      <meta name="author" content="Jigar Sable" />
-      <meta name="language" content="English" />
+      <meta name="author" content="Carlos Augusto" />
+      <meta name="language" content="Portuguese" />
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:site" content="https://jigarsable.vercel.app" />
       <meta name="application-name" content="Portfolio | Jigar Sable - Full Stack Developer" />
       <meta name="apple-mobile-web-app-title" content="Portfolio | Jigar Sable - Full Stack Developer" />
       <link rel="icon" href="/favicon.ico" />
-      <title>Portfolio | Jigar Sable - Full Stack Developer</title>
+      <title>Portifolio | Carlos Augusto - Full Stack Developer</title>
     </>
   )
 }

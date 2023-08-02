@@ -93,7 +93,7 @@ export default function Header({ logo }: { logo: string }) {
                         duration={500}
                         onClick={() => setNavCollapse(true)}
                         className='px-6 py-1.5 rounded-md bg-violet-600 hover:bg-violet-700 text-white text-center'>
-                        Contact
+                        Contato
                     </ScrollLink>
                 </div>
             </div>

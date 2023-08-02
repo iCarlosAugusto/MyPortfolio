@@ -34,15 +34,15 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="flex items-center gap-1">
                         <Image unoptimized={true} alt='waving-hand' width={30} height={30} src={wavingHand} />
                         <p className="text-lg md:text-xl mt-2 md:mt-1.5">
-                            Hey
+                            Oi, seja bem-vindo
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">
-                        I&apos;m {name}
+                        Eu sou {name}
                     </h1>
                     <div className="flex flex-row items-start md:items-center gap-1.5">
                         <h2 className="text-lg md:text-2xl">
-                            I am into
+                            Desenvolvedor
                         </h2>
                         <Typewriter
                             options={{
@@ -73,7 +73,7 @@ const Hero = ({ mainData }: HeroProps) => {
                         duration={500}
                         isDynamic={true}
                     >
-                        About Me
+                        Sobre mim
                         <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
                     </ScrollLink>
                 </div>
